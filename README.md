@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a computer science researcher with six years of professional development experience. I am looking to collaborate on deep learning/reinforcement learning and transfer learning projects for big data specifically streaming data from IoT devices in distributed systems.
+I am a computer science researcher with six years of professional development experience. I am looking to collaborate on deep learning/reinforcement learning and transfer learning projects in high performance distributed systems particularly analytics on streaming data from IoT devices.
 
 <!--
 **pureali/pureali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
