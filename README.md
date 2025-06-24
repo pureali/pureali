@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Computer Science (CS) Researcher with a solid foundation in CS (BS,MS,PhD) and five years of professional software development experience. I am looking to collaborate on applied machine learning, including agentic AI and LLMs. My research interests include digital twins, computer vision, extended reality, intelligent multi-agents and video stream analytics.
 
-#Summary
+Summary:
 
 - 🔭 I’m currently working on a digital twin to reduce greenhouse gas emissions.
 - 🌱 I’m currently learning agentic AI with MCPs
