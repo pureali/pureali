@@ -10,8 +10,8 @@ Summary:
 - 💬 Ask me about technical issues, ideas, and research interests 
 - 📫 How to reach me: pureali@G M A I L
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I ran a marathon in Budapest in 2024 and completed it in 4:42
-     I am the founder of a chat tool based on the IRC protocol called NetIRC
+- ⚡ Fun fact 1: I ran a marathon in Budapest in 2024 and completed it in 4:42
+- ⚡ Fun fact 2: I am the founder of a chat tool based on the IRC protocol called NetIRC
      
   
     
