@@ -3,8 +3,8 @@ I am a Computer Science (CS) Researcher with a solid foundation in CS (BS,MS,PhD
 
 Summary:
 
-- 🔭 I’m currently working on a digital twin to reduce greenhouse gas emissions.
-- 🌱 I’m currently learning agentic AI with MCPs, LLMs training and fine-tuning.
+- 🔭 Working on a digital twin to reduce greenhouse gas emissions.
+- 🌱 Focusing on agentic AI with MCPs, LLMs training and fine-tuning.
 - 👯 I’m looking to collaborate on startup ideas.
 - 💬 Ask me about technical issues, ideas, and research interests 
 - 📫 How to reach me: pureali@G M A I L
